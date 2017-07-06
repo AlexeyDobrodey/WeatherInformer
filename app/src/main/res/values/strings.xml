@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">WeatherInformer</string>
+
+    <string name="format_temp">%2.2f °C</string>
+    <string name="min_temp">Min. Temp:</string>
+    <string name="max_temp">Max. Temp:</string>
+    <string name="pressure">Pressure:</string>
+    <string name="humidity">Humidity:</string>
+
+
+    <string name="list_cities">703448,706483,698740,709930,709717,687700,702550,706448,710718,710791,692194,707471,702569,690548,703845</string>
 </resources>
